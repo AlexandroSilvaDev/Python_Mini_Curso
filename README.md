@@ -1,1 +1,1 @@
-# Python_Mini_Curso
+### Python Mini Curso - Curso de python realizado na plataforma hashtag programação.
